@@ -1,6 +1,7 @@
 {
     "C_Cpp.errorSquiggles": "enabled",
     "files.associations": {
-        "main.h": "c"
+        "main.h": "c",
+        "dbger.h": "c"
     }
 }
